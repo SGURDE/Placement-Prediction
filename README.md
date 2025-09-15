@@ -105,7 +105,6 @@ ATS score calculation and resume rating
 
 Admin panel with dashboard analytics
 
-📬 Contact
-GitHub: sarth72
+
 
 LinkedIn: [Add your LinkedIn URL here]
